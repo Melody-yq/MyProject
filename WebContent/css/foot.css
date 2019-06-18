@@ -1,0 +1,15 @@
+.foot {
+	width : 1000px ;
+	margin: 0  auto ;
+	height : 80px ;
+	padding-top : 10px ;
+	border-top : 1px solid gray ;
+}
+.navi2 {
+	margin: 0  auto ;
+	float : right ;
+	list-style-type:none ;
+}
+.navi2 li{
+	float : left ;
+}
